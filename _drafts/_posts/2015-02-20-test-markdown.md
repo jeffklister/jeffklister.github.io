@@ -3,7 +3,7 @@ layout: post
 title: Tatuagem na Thailandia
 subtitle: YAK SANT
 date: '2015-02-20T00:00:00.000+00:00'
-bigimg: /img/yaksant2.jpg
+bigimg: "/img/yaksant2.jpg"
 ---
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.

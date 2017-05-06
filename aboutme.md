@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prazer!  
+title: Prazer!
 subtitle: saiba quem sou eu
 ---
 
