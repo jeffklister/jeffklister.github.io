@@ -10,7 +10,7 @@ tags:
 - thailandia
 - yak sant
 - tatuagem
-show-avatar: true
+show-avatar: ''
 comments: true
 social-share: true
 image: ''
