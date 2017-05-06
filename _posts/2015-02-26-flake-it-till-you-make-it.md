@@ -1,11 +1,19 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: 'Tatuagem na Thailandia: Yak Sant'
+subtitle: A benção oriental.
 bigimg: "/img/path.jpg"
-url: http://jeffklister.github.io/flake-it
-baseurl: "/flake-it"
-date: '2015-02-26T00:00:00.000+00:00'
+url: http://jeffklister.github.io/yaksant
+baseurl: "/yaksant"
+date: 2017-05-05 23:17
+tags:
+- thailandia
+- yak sant
+- tatuagem
+show-avatar: true
+comments: true
+social-share: true
+image: ''
 ---
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?  
