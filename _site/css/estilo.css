@@ -12,5 +12,10 @@
 }
 
 #timeline .container{
-    background-color: #556A7F;
+    background-color: #000;
+    color: white;
+}
+
+footer {
+    margin-top: 0;
 }
