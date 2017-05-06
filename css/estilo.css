@@ -10,3 +10,7 @@
 .navbar {
     border:none;
 }
+
+#timeline .container{
+    background-color: #556A7F;
+}
