@@ -12,10 +12,20 @@
 }
 
 #timeline .container{
-    background-color: #000;
+    background-color: #0662a9;
     color: white;
 }
 
 footer {
     margin-top: 0;
 }
+
+.navbar-custom {
+    background: #0aa1f4;
+}
+
+body {
+    background: #000;
+    color: white;
+}
+
