@@ -20,8 +20,13 @@ footer {
     margin-top: 0;
 }
 
-.navbar-custom {
-    background: #0aa1f4;
+.navbar-custom  {
+    background: #0662a9;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .nav li a {
+    font-weight: 800;
+    color: #fff;
 }
 
 body {
@@ -29,3 +34,14 @@ body {
     color: white;
 }
 
+footer {
+    background-color: white;
+}
+
+.post-title {
+    color: #999;
+}
+
+.post-entry {
+    color: #807C60;
+}
