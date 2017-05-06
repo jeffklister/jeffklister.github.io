@@ -2,6 +2,8 @@
 layout: page
 title: Prazer!
 subtitle: saiba quem sou eu
+bigimg:
+- "/img/aboutme3.jpg": Já viajou esse ano? Caia na estrada!
 ---
 
 Meu nome é Jefferson Klister e possuo as seguintes qualidades:
