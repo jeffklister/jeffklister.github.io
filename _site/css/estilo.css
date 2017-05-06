@@ -1,0 +1,12 @@
+.intro-header .page-heading h1 {
+    font-size: 75px;
+}
+
+.navbar-custom {
+    background: rgba(255,255,255,.15);
+    padding: 20px 15px;
+}
+
+.navbar {
+    border:none;
+}

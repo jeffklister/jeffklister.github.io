@@ -10,7 +10,6 @@ baseurl: ""
 
 #Nome do site
 title: Jefferson Klister Jr
-# Short description of your site
 description: Website
 
 # Lista de links da barra de navegação
@@ -29,26 +28,25 @@ avatar: "/img/avatar-icon3.png"
 # then specify the following parameter
 title-img: "/img/yaklogo.png"
 
-# --- Footer options --- #
 
-# Change all these values or delete the ones you don't want.
+# --- Footer options --- #
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Jefferson Klister Jr.
   email: "jeffklister.gmail.com"
-  facebook: jeffklister  # eg. daattali
-  github: jeffklister    # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  snapchat: kklisterr  # eg. daattali
+  facebook: jeffklister  
+  github: jeffklister   
+  reddit: yourname  
+  google-plus: +yourname 
+  linkedin: yourname  
+  snapchat: kklisterr  
   instagram: kklisterr
-  youtube: channel/UCZaRAeez6OQWon-wJJjsysw   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: +55(91)98084-9198   # eg. +14159998888
+  youtube: channel/UCZaRAeez6OQWon-wJJjsysw  
+  spotify: yourname  
+  telephone: +55(91)98084-9198 
   
 
-# Select which links to show in the footer
+# Escolher quais links eu quero ativo no footer
 footer-links-active:
   
   github: true
@@ -67,7 +65,7 @@ footer-links-active:
   stackoverflow: false
   spotify: false
 
-# Select which share links to show in posts
+# Escolher quais links podem compartilhar 
 share-links-active:
   twitter: true
   facebook: true
@@ -76,7 +74,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jeffklister.com.br"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "jeffklister.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
