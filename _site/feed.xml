@@ -7,25 +7,15 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title></title>
+        <title>Tatuagem na Thailandia</title>
         <description>
-          
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+          YAK SANT - 
+          testeeeeeeeeee
+
         </description>
-        <pubDate>Fri, 05 May 2017 19:56:24 -0700</pubDate>
-        <link>http://localhost:4000/2017-05-05-2015-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017-05-05-2015-02-26-flake-it-till-you-make-it/</guid>
-      </item>
-    
-      <item>
-        <title>Test markdown</title>
-        <description>
-          Each post also has a subtitle - 
-          You can write regular markdown here and Jekyll will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a...
-        </description>
-        <pubDate>Thu, 19 Feb 2015 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015-02-19-test-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015-02-19-test-markdown/</guid>
+        <pubDate>Wed, 03 May 2017 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017-05-03-yaksant/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-05-03-yaksant/</guid>
       </item>
     
       <item>
