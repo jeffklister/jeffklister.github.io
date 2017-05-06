@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Tatuagem na Thailandia: Yak Sant
+subtitle: A bencao oriental
 bigimg: "/img/path.jpg"
-url: http://jeffklister.github.io/flake-it
-baseurl: "/flake-it"
+url: http://jeffklister.github.io/YakSant
+baseurl: "/YakSant"
 date: '2015-02-26T00:00:00.000+00:00'
 ---
 
