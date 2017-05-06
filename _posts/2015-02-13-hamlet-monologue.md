@@ -3,6 +3,8 @@ layout: post
 title: To be
 subtitle: "... or not to be?"
 date: '2015-02-13T00:00:00.000+00:00'
+bigimg:
+- "/img/path.jpg": Eis a questão
 ---
 
 To be, or not to be--that is the question:
