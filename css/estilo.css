@@ -45,3 +45,13 @@ footer {
 .post-entry {
     color: #807C60;
 }
+
+@media only screen and (min-width: 768px)
+.navbar-custom .nav .navlinks-container .navlinks-children a {
+    padding-left: 10px;
+    border: 1px solid #white;
+}
+
+.navbar-custom .nav .navlinks-container .navlinks-children a {
+    background: #0662a9;
+}
