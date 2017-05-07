@@ -6,18 +6,24 @@ bigimg:
 - "/img/aboutme3.jpg": Já viajou esse ano? Caia na estrada!
 ---
 
-Meu nome é Jefferson Klister e possuo as seguintes qualidades profissionais:
+Meu nome é [Jefferson Klister Jr](https://jeffklister.github.io), 23 anos e residindo em Belém do Pará, <br>
+possuo as seguintes qualidades profissionais:
 
 - Criativo e competente
-- Bom relacionamento interpessoal
-- Pro-ativo e sincero
+- Ótimo relacionamento interpessoal
+- Pró-ativo e sincero
 - Interessado e focado em minhas idéias
+- Inglês fluente
 - Aprendo rápido
 
 
-## Em que lhe posso ser útil?
+### Em que lhe posso ser útil?
 
-Vem falar comigo! Interessado em algum post? 
+- Interessado em algum post? 
+- Pensando em fazer seu próprio portfólio digital?
+- Tens a idéia em mente mas ainda não sabe como fazer?
 
-Na verdade ela é longa demais, porque você não dá só um olho no meu projeto mais atual? [CastleDev](http://castledevup.github.io).
+## Vem falar [comigo](https://jeffklister.github.io/contato)!
+
+Você já conhece a [Agência digital CastleDev](https://castledevup.github.io)? <br>
 Dê um olho e por que não, se torne nosso mais novo cliente!
