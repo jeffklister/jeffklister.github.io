@@ -6,8 +6,8 @@ bigimg:
 - "/img/aboutme3.jpg": Já viajou esse ano? Caia na estrada!
 ---
 
-Meu nome é [Jefferson Klister Jr](https://jeffklister.github.io), 23 anos e residindo em Belém do Pará, <br>
-possuo as seguintes qualidades profissionais:
+Meu nome é [Jefferson Klister Jr](https://jeffklister.github.io), 23 anos e resido em Belém do Pará. <br>
+Possuo as seguintes qualidades profissionais:
 
 - Criativo e competente
 - Ótimo relacionamento interpessoal
