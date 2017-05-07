@@ -29,6 +29,8 @@ footer {
     color: #fff;
 }
 
+
+
 body {
     background: #000;
     color: white;
@@ -49,9 +51,16 @@ footer {
 @media only screen and (min-width: 768px)
 .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #white;
 }
 
 .navbar-custom .nav .navlinks-container .navlinks-children a {
     background: #0662a9;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    border-color: #0662a9;
+}
+
+navbar-toggle {
+    background-color: 
 }

@@ -6,16 +6,18 @@ bigimg:
 - "/img/aboutme3.jpg": Já viajou esse ano? Caia na estrada!
 ---
 
-Meu nome é Jefferson Klister e possuo as seguintes qualidades:
+Meu nome é Jefferson Klister e possuo as seguintes qualidades profissionais:
 
-- Tenho um bigode massa
-- Sou altamente conectado a minha família
+- Criativo e competente
+- Bom relacionamento interpessoal
+- Pro-ativo e sincero
 - Interessado e focado em minhas idéias
 - Aprendo rápido
 
-Do que mais você precisa??
 
-### Se liga na minha história
+## Em que lhe posso ser útil?
+
+Vem falar comigo! Interessado em algum post? 
 
 Na verdade ela é longa demais, porque você não dá só um olho no meu projeto mais atual? [CastleDev](http://castledevup.github.io).
-Dê um olho e quem sabe, se torne nosso mais novo cliente!
+Dê um olho e por que não, se torne nosso mais novo cliente!
