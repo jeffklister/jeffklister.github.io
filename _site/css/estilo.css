@@ -2,6 +2,10 @@
     color: white;
 }
 
+.big-img .intro-header {
+    margin-top: 0;
+}
+
 .navbar-custom {
     background: rgba(255,255,255,.15);
     padding: 20px 15px;
@@ -52,18 +56,6 @@ footer {
 
 .post-entry {
     color: #807C60;
-}
-
-
-
-
-@media (min-width: 992px)
-.container {
-    width: 992px;
-}
-@media (min-width: 768px)
-.container {
-    width: 768px;
 }
 
 @media only screen and (min-width: 768px)
