@@ -37,10 +37,6 @@ footer {
     color: #fff;
 }
 
-navbar-fixed-bottom, .navbar-fixed-top {
-    position: static;
-}
-
 body {
     background: #000;
     color: white;
