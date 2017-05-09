@@ -16,7 +16,7 @@
     color: white;
 }
 
-#sobre .container {
+#sobre{
     padding-bottom: 25px;
 }
 
@@ -33,7 +33,9 @@ footer {
     color: #fff;
 }
 
-
+navbar-fixed-bottom, .navbar-fixed-top {
+    position: static;
+}
 
 body {
     background: #000;
@@ -45,11 +47,23 @@ footer {
 }
 
 .post-title {
-    color: #999;
+    color: white;
 }
 
 .post-entry {
     color: #807C60;
+}
+
+
+
+
+@media (min-width: 992px)
+.container {
+    width: 992px;
+}
+@media (min-width: 768px)
+.container {
+    width: 768px;
 }
 
 @media only screen and (min-width: 768px)
@@ -63,8 +77,4 @@ footer {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form{
     border-color: #2196F3;
-}
-
-navbar-toggle {
-    background-color: 
 }
