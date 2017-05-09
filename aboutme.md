@@ -1,5 +1,5 @@
 ---
-layout: sobre
+layout: page
 bigimg:
 - "/img/sobre/australia1.jpg": Australia Ocidental
 - "/img/sobre/thailandia1.jpg": Krab | Tailandia
@@ -10,24 +10,22 @@ bigimg:
 - "/img/sobre/filipinas2.jpg": Filipinas
 - "/img/sobre/malasya2.jpg": Batu Cave | Malásia
 ---
-  
-  Meu nome é [Jefferson Klister Jr](https://jeffklister.github.io),  tenho 23 anos e atualmente resido em Belém do Pará. <br>
-  Durante a minha vida adquiri as seguintes qualidades profissionais:
 
-- Fluência na língua Inglesa (conversação, leitura e escrita)
-- Pró-atividade
-- Competência
-- Criatividade
-- Honestidade
-- Determinação
+<section id="sobre">
+          <!-- TELAS PEQUENAS -->
+          <div class="col-xs-12 col-sm-12 text-center hidden-md hidden-lg">
+            {% include sobre.html %}
+          </div>
+          <div class="col-xs-12 col-sm-12 text-center hidden-md hidden-lg">
+          <a href="https://castledevup.github.io"><img  class="castle"  alt="logo CastleDev" src="/img/castle.png" /></a>
+          </div>
 
-### Em que lhe posso ser útil?
-
-- Algum post que te chamou a atenção? 
-- Pensando em fazer seu próprio portfólio digital?
-- Tens a idéia em mente mas ainda não sabe como fazer?
-
-## Vem falar [comigo](https://jeffklister.github.io/contato)!
-
-Você já conhece a [Agência digital CastleDev](https://castledevup.github.io)? <br>
-Dê um olho e por que não, se torne nosso mais novo cliente!
+          <!-- TELAS MÉDIAS E GRANDES -->
+          <div class="hidden-xs hidden-sm col-md-12 col-lg-12">
+            {% include sobre.html %}
+         </div>
+        <div class="hidden-xs hidden-sm col-md-12 col-lg-12 text-center">
+            <a href="https://castledevup.github.io"><img  class="castle"  alt="logo CastleDev" src="/img/castle.png" /></a>
+        </div>
+</section>
+                
