@@ -11,19 +11,18 @@ bigimg:
 - "/img/sobre/malasya2.jpg": Batu Cave | Malasya
 ---
   
-  Meu nome é [Jefferson Klister Jr](https://jeffklister.github.io), 23 anos e resido em Belém do Pará. <br>
-  Possuo as seguintes qualidades profissionais
+  Meu nome é [Jefferson Klister Jr](https://jeffklister.github.io),  tenho 23 anos e atualmente resido em Belém do Pará. <br>
+  Durante a minha vida adquiri as seguintes qualidades profissionais:
 
-- Criativo e competente
-- Ótimo relacionamento interpessoal
-- Pró-ativo e sincero
-- Interessado e focado em minhas idéias
-- Inglês fluente
-- Aprendo rápido
+- Fluência na língua Inglesa (conversação, leitura e escrita)
+- Criatividade e competência
+- Pró-atividade
+- Honestidade
+- Determinação
 
 ### Em que lhe posso ser útil?
 
-- Interessado em algum post? 
+- Algum post que te chamou a atenção? 
 - Pensando em fazer seu próprio portfólio digital?
 - Tens a idéia em mente mas ainda não sabe como fazer?
 
