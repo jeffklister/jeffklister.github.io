@@ -3,7 +3,11 @@
 }
 
 .big-img .intro-header {
-    margin-top: 0;
+    margin-top: 9px;
+}
+
+.intro-header.big-img .page-heading, .intro-header.big-img .post-heading {
+    padding: 160px 0;
 }
 
 .navbar-custom {

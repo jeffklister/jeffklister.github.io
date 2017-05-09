@@ -1,22 +1,23 @@
 ---
 layout: sobre
 bigimg:
-- "/img/sobre/australia1.jpg": Western Australia
-- "/img/sobre/thailandia1.jpg": Krab | Thailandia
+- "/img/sobre/australia1.jpg": Australia Ocidental
+- "/img/sobre/thailandia1.jpg": Krab | Tailandia
 - "/img/sobre/cingapura1.jpg": Bairro Little India | Cingapura
 - "/img/sobre/filipinas1.jpg": Filipinas
-- "/img/sobre/australia2.jpg": Western Australia
+- "/img/sobre/australia2.jpg": Australia Ocidental
 - "/img/sobre/cingapura2.jpg": Garden by the bay | Cingapura
 - "/img/sobre/filipinas2.jpg": Filipinas
-- "/img/sobre/malasya2.jpg": Batu Cave | Malasya
+- "/img/sobre/malasya2.jpg": Batu Cave | Malásia
 ---
   
   Meu nome é [Jefferson Klister Jr](https://jeffklister.github.io),  tenho 23 anos e atualmente resido em Belém do Pará. <br>
   Durante a minha vida adquiri as seguintes qualidades profissionais:
 
 - Fluência na língua Inglesa (conversação, leitura e escrita)
-- Criatividade e competência
 - Pró-atividade
+- Competência
+- Criatividade
 - Honestidade
 - Determinação
 
