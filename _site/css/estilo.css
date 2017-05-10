@@ -35,7 +35,13 @@ footer a {
     background: #1A237E;
 }
 .navbar {
-    border:none;
+    border-style: none;
+}
+.navbar-toggle {
+    border-style: none;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #FF5722;
 }
 #timeline {
     background-color: #3F51B5;
