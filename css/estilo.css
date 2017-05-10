@@ -3,14 +3,10 @@
 }
 
 .big-img .intro-header {
-    margin-top: 9px;
+    margin-top: 10px;
 }
 .intro-header.big-img .page-heading, .intro-header.big-img .post-heading {
     padding: 160px 0;
-}
-.navbar-custom {
-    background: rgba(255,255,255,.15);
-    padding: 22px 18px;
 }
 .navbar {
     border:none;
@@ -19,8 +15,8 @@
     background-color: #008AFF;
     color: white;
 }
-footer {
-    
+#sobre .about{
+    text-align: left;
 }
 .navbar-custom  {
     background: #008AFF;
@@ -32,6 +28,9 @@ footer {
 body {
     background: #000;
     color: white;
+}
+.intro-header .page-heading h1 {
+    font-size: 36px;
 }
 .post-title {
     color: white;
@@ -53,5 +52,9 @@ footer {
     background: #008AFF;
     border-style: none;
     color: white;
-    margin-top: 0px;
+    margin-top: 0;
+}
+.header-section.has-img .no-img {
+    background: #000;
+    box-shadow: none;
 }

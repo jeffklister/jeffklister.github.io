@@ -13,10 +13,10 @@ bigimg:
 
 <section id="sobre">
           <!-- TELAS PEQUENAS -->
-          <div class="col-xs-12 col-sm-12 text-center hidden-md hidden-lg">
+          <div class="col-xs-12 col-sm-12 text-center hidden-md hidden-lg" style="text-align:left;">
             {% include sobre.html %}
           </div>
-          <div class="col-xs-12 col-sm-12 text-center hidden-md hidden-lg">
+          <div class="col-xs-12 col-sm-12 text-center hidden-md hidden-lg text-center">
           <a href="https://castledevup.github.io"><img  class="castle"  alt="logo CastleDev" src="/img/castle.png" /></a>
           </div>
 
