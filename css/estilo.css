@@ -1,3 +1,14 @@
+html {
+    font-family: 'Athiti', sans-serif;
+}   
+    
+}
+h1 {
+    font-family: 'Athiti', sans-serif;
+}
+h2, h3, h4, a, p, ul, li {
+    font-family: 'Nunito Sans', sans-serif;
+}
 .intro-header .page-heading h1 {
     color: white;
 }
@@ -12,44 +23,50 @@
     border:none;
 }
 #timeline {
-    background-color: #008AFF;
+    background-color: #3F51B5;
     color: white;
 }
 #sobre .about{
     text-align: left;
 }
 .navbar-custom  {
-    background: #008AFF;
+    background: #3F51B5;
 }
 .navbar-custom .navbar-brand, .navbar-custom .nav li a {
     font-weight: 800;
     color: #fff;
 }
 body {
-    background: #000;
+    background: #1A237E;
     color: white;
+}
+body a {
+    color: #FF5722;
 }
 .intro-header .page-heading h1 {
     font-size: 36px;
 }
 .post-title {
-    color: white;
+    color: #FF5722;
 }
 .post-entry {
-    color: #807C60;
+    color: white;
+}
+.post-preview a{
+    color: #FF5722;
 }
 @media only screen and (min-width: 768px)
 .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
 }
 .navbar-custom .nav .navlinks-container .navlinks-children a {
-    background: #008AFF;
+    background: #3F51B5;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form{
-    border-color: #008AFF;
+    border-color: #3F51B5;
 }
 footer {
-    background: #008AFF;
+    background: #1A237E;
     border-style: none;
     color: white;
     margin-top: 0;
