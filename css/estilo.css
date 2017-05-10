@@ -7,10 +7,20 @@ h1, h2, h3, h4{
 a, p, ul, li {
     font-family: 'Nunito Sans', sans-serif;
 }
-.intro-header .page-heading h1 {
+a {
+    color: #FF5722;
+}
+footer a {
+    color: #FF5722;
+}
+.copyright {
     color: white;
 }
-
+.pager li a {
+    background: #FF5722;
+    border-style: none;
+    color: white;
+}
 .big-img .intro-header {
     margin-top: 10px;
 }
@@ -19,6 +29,10 @@ a, p, ul, li {
 }
 .intro-header.no-img {
     background-color: #1A237E;
+}
+.fa-inverse {
+    color: #FF5722;
+    background: #1A237E;
 }
 .navbar {
     border:none;
@@ -34,21 +48,15 @@ a, p, ul, li {
     background: #3F51B5;
 }
 .navbar-custom .navbar-brand, .navbar-custom .nav li a {
-    font-weight: 800;
-    color: #fff;
+    font-weight: 900;
+    color: #FF5722;
 }
 body {
     background: #1A237E;
     color: white;
 }
-body a {
-    color: #FF5722;
-}
 .intro-header .page-heading h1 {
     font-size: 36px;
-}
-.post-title {
-    color: #FF5722;
 }
 .post-entry {
     color: white;

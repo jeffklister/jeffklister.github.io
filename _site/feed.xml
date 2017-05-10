@@ -7,6 +7,18 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Yak Sant</title>
+        <description>
+          A benção oriental - 
+          Você já conhece as Yak Sant?
+
+        </description>
+        <pubDate>Wed, 10 May 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017-05-10-yak-sant/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-05-10-yak-sant/</guid>
+      </item>
+    
+      <item>
         <title>Tatuagem na Thailandia</title>
         <description>
           YAK SANT - 
