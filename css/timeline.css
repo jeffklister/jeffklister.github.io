@@ -64,8 +64,8 @@
                 right: -15px;
                 display: inline-block;
                 border-top: 15px solid transparent;
-                border-left: 15px solid #1A237E;
-                border-right: 0 solid  #1A237E;
+                border-left: 15px solid #FF5722;
+                border-right: 0 solid  #FF5722;
                 border-bottom: 15px solid transparent;
                 content: " ";
             }
@@ -76,8 +76,8 @@
                 right: -14px;
                 display: inline-block;
                 border-top: 14px solid transparent;
-                border-left: 14px solid #1A237E;
-                border-right: 0 solid #1A237E;
+                border-left: 14px solid #FF5722;
+                border-right: 0 solid #FF5722;
                 border-bottom: 14px solid transparent;
                 content: " ";
             }
@@ -151,7 +151,7 @@
 .timeline-body > p {
     color: white;
 
-    font-size: 21px;
+    font-size: 16px;
 }
 .timeline-body > p,
 .timeline-body > ul {
