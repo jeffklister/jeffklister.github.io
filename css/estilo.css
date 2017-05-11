@@ -51,9 +51,11 @@ a:hover,a:focus {
 .navbar-toggle {
     border-style: none;
 }
+
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #FF5722;
 }
+
 #timeline {
     background-color: #3F51B5;
     color: white;
