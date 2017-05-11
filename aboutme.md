@@ -2,13 +2,9 @@
 layout: page
 bigimg:
 - "/img/sobre/australia1.jpg": Australia Ocidental
-- "/img/sobre/thailandia1.jpg": Krab | Tailandia
-- "/img/sobre/cingapura1.jpg": Bairro Little India | Cingapura
-- "/img/sobre/filipinas1.jpg": Filipinas
-- "/img/sobre/australia2.jpg": Australia Ocidental
-- "/img/sobre/cingapura2.jpg": Garden by the bay | Cingapura
-- "/img/sobre/filipinas2.jpg": Filipinas
-- "/img/sobre/malasya2.jpg": Batu Cave | Malásia
+- "/img/sobre/australia2.jpg": Perth - Karijini | Roadtrip
+- "/img/sobre/cingapura2.jpg": Marina Bay Sand | Cingapura
+- "/img/sobre/malasya2.jpg": Caverna Batu | Malásia
 ---
 
 <section id="sobre">

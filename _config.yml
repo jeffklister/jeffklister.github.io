@@ -143,15 +143,13 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
+  #rooturl: 
   media: 'img'
   ignore:
     - 404.html
     - LICENSE
     - feed.xml
     - _config.yml
-    - /_layouts
-    - /_includes
     - /css
     - /img
     - /js
