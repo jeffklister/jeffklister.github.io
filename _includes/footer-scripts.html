@@ -32,3 +32,22 @@
 {% endif %}
 
 {% include google_analytics.html %}
+
+
+    <!-- Main js - DO NOT remove -->
+    <script src="js/main.js"></script>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">var submitted=false;</script>
+    <script type="text/javascript">
+    $('#gform').on('submit', function(e) {
+      $('#gform *').fadeOut(2000);
+       $('#gform').prepend('<h2>Obrigado pelo contato!<br>Responderei assim que possível!</h2>');
+      });
+    </script>
+
+

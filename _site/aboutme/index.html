@@ -39,8 +39,6 @@
     
       <link rel="stylesheet" href="/css/estilo.css" />
     
-      <link rel="stylesheet" href="/css/aboutme.css" />
-    
       <link rel="stylesheet" href="/css/timeline.css" />
     
   
@@ -150,7 +148,7 @@
         <span class="icon-bar"></span>
       </button>
       
-        <a class="navbar-brand navbar-brand-logo" href="http://localhost:4000"><img src="/img/logo.png"/></a>
+        <a class="navbar-brand navbar-brand-logo" href="http://localhost:4000"><img src="/img/logopreta.png"/></a>
       
     </div>
 
@@ -527,6 +525,25 @@
     
   
 
+
+
+
+
+    <!-- Main js - DO NOT remove -->
+    <script src="js/main.js"></script>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">var submitted=false;</script>
+    <script type="text/javascript">
+    $('#gform').on('submit', function(e) {
+      $('#gform *').fadeOut(2000);
+       $('#gform').prepend('<h2>Obrigado pelo contato!<br>Responderei assim que possível!</h2>');
+      });
+    </script>
 
 
 
