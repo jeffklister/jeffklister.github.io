@@ -15,9 +15,9 @@ description: Website
 # Lista de links da barra de navegação
 navbar-links:
   Projetos:
-    - Castle Dev: "http://castledevup.github.io/"
-    - Martec: "http://castledevup.github.io/martec/"
-    - Nomade digital: "http://jeffklister.github.io/portfolio2017/"
+    - Castle Dev: "http://castledevup.tk/"
+    - Martec: "https://castledevup.github.io/martec/"
+    - Nomade digital: "https://jeffklister.github.io/portfolio2017/"
   Sobre: "aboutme"
   Contato: "contato"
 
@@ -33,7 +33,7 @@ title-img: "/img/logopreta.png"
 # --- Footer options --- #
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jefferson Klister Jr.
+  name: Jefferson Klister Junior
   email: "jeffklister.gmail.com"
   facebook: jeffklister  
   github: jeffklister   
@@ -70,12 +70,11 @@ footer-links-active:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "jeffklister.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+
+url-pretty: "jeffklister.tk"  
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -151,7 +150,6 @@ prose:
     - feed.xml
     - _config.yml
     - /css
-    - /img
     - /js
   metadata:
     _posts:

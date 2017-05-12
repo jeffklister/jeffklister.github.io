@@ -1,8 +1,7 @@
 ---
 layout: page
 bigimg:
-- "/img/TI.jpg": Bacharelando em Sistemas de informação
-- "/img/viajante.JPG": Explorador do mundo
+- "/img/sobre/cingapura2.jpg": Cingapura
 ---
 
 <section id="sobre">
