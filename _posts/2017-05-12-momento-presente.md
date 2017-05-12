@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Aprenda a viver o momento presente
-date: '2017-05-12'
 bigimg:
 - "/img/path.jpg": Aqui e agora
 date: '2017-05-12T00:00:00.000+00:00'
