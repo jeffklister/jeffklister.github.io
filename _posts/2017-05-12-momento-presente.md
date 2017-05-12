@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Aprenda a viver o momento presente
+date: '2017-05-12'
 bigimg:
 - "/img/path.jpg": Aqui e agora
 date: '2017-05-12T00:00:00.000+00:00'
@@ -13,7 +14,7 @@ Independentemente de o que aconteceu ontem ou ano passado, o que pode ou não po
 
 Sem duvidas, muitos de nós viramos mestres na desgastante arte de desperdiçar longos períodos de tempo se preocupando com bobagens. Todas de uma vez!
 
-Nós permitimos os problemas passados e preocupações futuras, dominarem nosso momento presente. Deixamos essa dominação ser tanta, que acabamos ansiosos, frustrados, depressivos, sem esperança. Como revés desse quadro, ainda conseguimos adiar nossa satisfação, nossas ditas prioridades e até nossa felicidade. 
+Permitimos os problemas passados e preocupações futuras dominarem nosso momento presente. Deixamos essa dominação ser tanta, que acabamos ansiosos, frustrados, depressivos, sem esperança. Como revés desse quadro, ainda conseguimos adiar nossa satisfação, nossas ditas prioridades e até nossa felicidade. 
 
 ### Nos convencendo frequentemente de que **ALGUM DIA** vai ser melhor que **HOJE**.
 
@@ -21,7 +22,7 @@ Infelizmente, a mesma dinâmica mental que nos diz para olhar para o futuro, **s
 
 > "A vida é o que está acontecendo, enquanto estamos ocupados fazendo outros planos" - John Lennon.
 
-Enquanto ocupados, fazendo outros "outros planos" como disse Lennon, pessoas que amamos estão se mudando e morrendo, nosso corpo envelhecendo, nossos sonhos escorregando pelos dedos. Devemos ter a consciência de que, amanhã, não temos a garantia de que ele ou ela não estará **AQUI**. 
+Enquanto ocupados, fazendo outros "outros planos" como disse Lennon, pessoas que amamos estão se mudando e morrendo, nosso corpo envelhecendo, nossos sonhos escorregando pelos dedos. Devemos ter a consciência de que, amanhã, não temos a garantia de que ele ou ela estará **AQUI**. 
 
 ### **AGORA** é a hora que temos, e a única que de fato, **temos o controle sobre!**
 
