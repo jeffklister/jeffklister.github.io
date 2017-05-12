@@ -3,6 +3,7 @@ layout: post
 title: Aprenda a viver o momento presente
 bigimg:
 - "/img/path.jpg/": aqui e agora
+date: '2017-05-12T00:00:00.000+00:00'
 ---
 
 ## A nossa capacidade em alcançar a paz de espírito é determinada pelo quanto nos somos capazes de viver o momento presente.
