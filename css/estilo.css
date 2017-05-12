@@ -36,7 +36,7 @@ a:hover,a:focus {
     margin-top: 10px;
 }
 .intro-header.big-img .page-heading, .intro-header.big-img .post-heading {
-    padding: 160px 0;
+    padding: 190px;
 }
 .intro-header.no-img {
     background-color: #1A237E;
@@ -76,12 +76,15 @@ body {
     color: white;
 }
 .intro-header .page-heading h1 {
-    font-size: 36px;
+    font-size: 70px;
 }
 .post-entry {
     color: white;
 }
 .post-preview a{
+    color: #FF5722;
+}
+.blog-post h2,h3,h4{
     color: #FF5722;
 }
 @media only screen and (min-width: 768px)

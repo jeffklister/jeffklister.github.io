@@ -1,10 +1,8 @@
 ---
 layout: page
 bigimg:
-- "/img/sobre/australia1.jpg": Australia Ocidental
-- "/img/sobre/australia2.jpg": Perth - Karijini | Roadtrip
-- "/img/sobre/cingapura2.jpg": Marina Bay Sand | Cingapura
-- "/img/sobre/malasya2.jpg": Caverna Batu | Malásia
+- "/img/TI.jpg": Bacharelando em Sistemas de informação
+- "/img/viajante.JPG": Explorador do mundo
 ---
 
 <section id="sobre">

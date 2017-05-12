@@ -7,15 +7,14 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Yak Sant</title>
+        <title>Aprenda a viver o momento presente</title>
         <description>
-          A benção oriental - 
-          Você já conhece as Yak Sant?
-
+          
+          A nossa capacidade em alcançar a paz de espírito é determinada pelo quanto nos somos capazes de viver o momento presente. Independentemente de o que aconteceu ontem ou ano passado, o que pode ou não pode acontecer amanhã, o momento presente é AQUI E AGORA, SEMPRE! Sem duvidas, muitos de...
         </description>
-        <pubDate>Wed, 10 May 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2017-05-10-yak-sant/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017-05-10-yak-sant/</guid>
+        <pubDate>Fri, 12 May 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017-05-12-momento-presente/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-05-12-momento-presente/</guid>
       </item>
     
   </channel>
