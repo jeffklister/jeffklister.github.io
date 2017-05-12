@@ -27,13 +27,13 @@ avatar: "/img/avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/logopreta.png"
+title-img: "/faviconjk.png"
 
 
 # --- Footer options --- #
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jefferson Klister Junior
+  name: Jefferson Klister Jr
   email: "jeffklister.gmail.com"
   facebook: jeffklister  
   github: jeffklister   
@@ -74,7 +74,7 @@ share-links-active:
   linkedin: true
 
 
-url-pretty: "jeffklister.tk"  
+url-pretty: "klister.tk"  
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
