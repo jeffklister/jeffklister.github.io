@@ -2,12 +2,14 @@
 layout: post
 title: Se torne mais paciente
 use-site-title: true
-tags: [paciência, equilíbrio mental, ]
+tags:
+- paciência
+- equilíbrio mental
 share-img: img/equilibrio.jpg
 bigimg:
 - "/img/equilibrio.jpg": mens sana in corpore sana
 date: '2017-05-13'
-permalink: /paciencia/
+permalink: "/paciencia/"
 ---
 
 
