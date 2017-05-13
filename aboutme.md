@@ -1,5 +1,6 @@
 ---
 layout: page
+share-img: img/sobre/cingapura2.jpg
 bigimg:
 - "/img/sobre/cingapura2.jpg": Cingapura
 ---

@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Aprenda a viver o momento presente
-date: '2017-05-12'
+share-img: img/path.jpg
+use-site-title: true
+tags: [vida, bem estar, momento presente, aqui e agora, paz de espírito]
 bigimg:
 - "/img/path.jpg": Aqui e agora
-date: '2017-05-12T00:00:00.000+00:00'
+date: '2017-05-12'
+permalink: /Momento-presente/
 ---
 
 ## A nossa capacidade em alcançar a paz de espírito é determinada pelo quanto nos somos capazes de viver o momento presente.
