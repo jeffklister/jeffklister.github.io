@@ -5,8 +5,6 @@ title: Aprenda a viver o momento presente
 share-img: img/path.jpg
 use-site-title: true
 tags: [vida, bem estar, momento presente, aqui e agora, paz de espírito]
-=======
->>>>>>> origin/master
 bigimg:
 - "/img/path.jpg": Aqui e agora
 date: '2017-05-12'
