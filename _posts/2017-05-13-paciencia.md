@@ -2,6 +2,7 @@
 layout: post
 title: Se torne mais paciente
 use-site-title: true
+published: false
 tags:
 - paciência
 - equilíbrio mental
