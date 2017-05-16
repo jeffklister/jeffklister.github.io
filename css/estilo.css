@@ -108,7 +108,8 @@ footer {
     margin-top: 0;
 }
 .header-section.has-img .no-img {
-    background: #000;
+    color: #ff7d12;
+    background: #1a237e;
     box-shadow: none;
 }
 

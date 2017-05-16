@@ -7,26 +7,25 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title></title>
+        <title>Diminua sua tolerância ao estresse</title>
+        <description>
+          
+          O equívoco do estresse em nossa sociedade… Vocês já perceberam que nós tendemos a dar atenção a pessoas que estão sob grande estresse, que carregam altas cargas de estresse e/ou até as que estão sob pressão? Nossa, hoje eu trabalhei bastante! Hoje estou muito estressado! ou então Eu tenho alta...
+        </description>
+        <pubDate>Tue, 16 May 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/estresse/</link>
+        <guid isPermaLink="true">http://localhost:4000/estresse/</guid>
+      </item>
+    
+      <item>
+        <title>Aprenda a viver o momento presente</title>
         <description>
           
           A nossa capacidade em alcançar a paz de espírito é determinada pelo quanto nos somos capazes de viver o momento presente. Independentemente de o que aconteceu ontem ou ano passado, o que pode ou não pode acontecer amanhã, o momento presente é AQUI E AGORA, SEMPRE! Sem duvidas, muitos de...
         </description>
-        <pubDate>Sat, 13 May 2017 13:58:42 -0700</pubDate>
-        <link>http://localhost:4000/2017-05-13-2017-05-12-momento-presente/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017-05-13-2017-05-12-momento-presente/</guid>
-      </item>
-    
-      <item>
-        <title>Se torne mais paciente</title>
-        <description>
-          
-          
-
-        </description>
-        <pubDate>Sat, 13 May 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/paciencia/</link>
-        <guid isPermaLink="true">http://localhost:4000/paciencia/</guid>
+        <pubDate>Fri, 12 May 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/Momento-Presente/</link>
+        <guid isPermaLink="true">http://localhost:4000/Momento-Presente/</guid>
       </item>
     
   </channel>
