@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ficou interessado?
+title: Gostou?
 subtitle: Vem falar comigo!
 bigimg:
 - "/img/sobre/australia2.jpg": Respondo assim que possível
