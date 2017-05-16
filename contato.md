@@ -3,7 +3,7 @@ layout: page
 title: Ficou interessado?
 subtitle: Vem falar comigo!
 bigimg:
-- "/img/sobre/australia2.jpg": Australia Ocidental
+- "/img/sobre/australia2.jpg": Respondo assim que possível
 ---
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSf5uTWIH9_oy5E3R_Cye5ton1hQPg1Kp78jt_Pzvxc8tsWsmA/formResponse" target="hidden_iframe" onsubmit="submitted=true;">

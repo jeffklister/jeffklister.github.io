@@ -16,8 +16,8 @@ description: Website
 navbar-links:
   Projetos:
     - Castle Dev: "http://castledevup.tk/"
-    - Martec: "https://castledevup.github.io/martec/"
-    - Nomade digital: "https://jeffklister.github.io/portfolio2017/"
+    - Martec: "http://castledev.tk/martec/"
+    - Nomade digital: "http://klister.tk/portfolio2017/"
   Sobre: "aboutme"
   Contato: "contato"
 
@@ -27,7 +27,7 @@ avatar: "/img/avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/faviconjk.png"
+title-img: "/faviconjk2.png"
 
 
 # --- Footer options --- #
@@ -104,7 +104,7 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 3
 
 kramdown:
   input: GFM
