@@ -6,9 +6,9 @@ tags:
 - razao
 - felicidade
 - batalha de egos
-share-img: img/posts/7.jpg
+share-img: /img/posts/7.JPG
 bigimg:
-- "/img/posts/7.jpg": 
+- "/img/posts/7.JPG": 
 date: '2017-05-22'
 permalink: "/a-razao-dos-outros/"
 ---
