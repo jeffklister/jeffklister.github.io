@@ -15,9 +15,9 @@ description: Website
 # Lista de links da barra de navegação
 navbar-links:
   Projetos:
-    - Castle Dev: "http://castledevup.tk/"
+    - Castle Dev: "http://castledev.tk/"
     - Martec: "http://castledev.tk/martec/"
-    - Nomade digital: "http://klister.tk/portfolio2017/"
+    - Nomade digital: "http://klister.tk/nomadedigital/"
   Sobre: "aboutme"
   Contato: "contato"
 
