@@ -1,15 +1,19 @@
-{% if site.disqus %}
-<div id="disqus_thread"></div>
-<script>
-    var disqus_shortname = '<jeffersonklisterjr>';
-    var disqus_developer = 1;
-    (function() {
-        var d = document, s = d.createElement('script');
+{% if page.comments %}
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'klister';
+        /*var disqus_developer = 1;*/
+        var disqus_identifier = "{{ page.url }}";
         
-        s.src = 'https://jeffersonklisterjr.disqus.com/embed.js';
-        
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
+        (function() {
+            var d = document, s = d.createElement('script');
+
+            s.src = 'https://klister.disqus.com/embed.js';
+
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
