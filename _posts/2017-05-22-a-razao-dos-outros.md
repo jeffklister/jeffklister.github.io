@@ -11,6 +11,7 @@ bigimg:
 - "/img/posts/7.JPG": 
 date: '2017-05-22'
 permalink: "/a-razao-dos-outros/"
+comments: true
 ---
 
 ## Estar certo ou ser feliz?
