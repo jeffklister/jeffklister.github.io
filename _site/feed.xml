@@ -7,6 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Veja a inocência</title>
+        <description>
+          
+          Para muitos, um dos aspectos mais agoniantes na vida é não entender o comportamento das pessoas. Vemos elas como “culpadas” ao invés de “inocentes”. É tentador focar no aparente comportamento irracional das pessoas - seus comentários, ações, egoísmos - e ficar bem frustrado. Esse foco nos ilude, parecendo até que...
+        </description>
+        <pubDate>Tue, 20 Jun 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/Veja-a-inocencia/</link>
+        <guid isPermaLink="true">http://localhost:4000/Veja-a-inocencia/</guid>
+      </item>
+    
+      <item>
         <title>Todos são iluminados. Menos você.</title>
         <description>
           
