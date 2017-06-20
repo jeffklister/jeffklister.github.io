@@ -5,9 +5,9 @@ tags:
 - felicidade
 - bem estar
 - life hack
-share-img: "/img/posts/10.JPG"
+share-img: "/img/posts/10.jpg"
 bigimg:
-- "/img/posts/10.JPG": 
+- "/img/posts/10.jpg": 
 date: '2017-06-20'
 permalink: "/Veja-a-inocencia/"
 comments: true
